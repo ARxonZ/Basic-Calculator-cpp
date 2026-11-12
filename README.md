@@ -57,4 +57,4 @@ Thank you for using the calculator. Goodbye!
 Functions, `switch` statement, `do-while` loop, input validation with `cin`, `iomanip` formatting.
 
 ## Author
-Your Name
+ARxon'Z 
